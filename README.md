@@ -1,8 +1,6 @@
 # Mini Search Engine
 Search and rank information from computer science documents using C++.
 ## Search Topics
-The included documents:
-
 • Algorithms
 
 • Data Structures
