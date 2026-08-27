@@ -26,11 +26,8 @@ Search and rank information from computer science documents using C++.
 • Multiple searches in one session
 ## Run
 Compile the program:
-
 g++ -std=c++17 main.cpp -o search
-
 Start the search engine:
-
 ./search
 ## Technologies
 • C++
