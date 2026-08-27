@@ -15,7 +15,6 @@ The included documents:
 • Cybersecurity
 
 ## Search Capabilities
-
 • Single word and multi word searches
 • Case insensitive matching
 • Match counting
@@ -24,7 +23,6 @@ The included documents:
 • Multiple searches in one session
 
 ## Run
-
 Compile the program:
 
 g++ -std=c++17 main.cpp -o search
@@ -34,9 +32,8 @@ Start the search engine:
 ./search
 
 ## Technologies
-
 • C++
 • File Handling
-─ STL
-─ Inverted Index
+• STL
+• Inverted Index
 M
