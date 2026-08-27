@@ -7,21 +7,21 @@ The program reads text files, processes their content, and creates an index that
 ## Search Topics
 The included documents:
 
-─ Algorithms
-─ Data Structures
-─ Operating Systems
-─ Databases
-─ Computer Networks
-─ Cybersecurity
+• Algorithms
+• Data Structures
+• Operating Systems
+• Databases
+• Computer Networks
+• Cybersecurity
 
 ## Search Capabilities
 
-─ Single word and multi word searches
-─ Case insensitive matching
-─ Match counting
-─ Result scoring and ranking
-─ Punctuation handling
-─ Multiple searches in one session
+• Single word and multi word searches
+• Case insensitive matching
+• Match counting
+• Result scoring and ranking
+• Punctuation handling
+• Multiple searches in one session
 
 ## Run
 
@@ -35,7 +35,8 @@ Start the search engine:
 
 ## Technologies
 
-─ C++
-─ File Handling
+• C++
+• File Handling
 ─ STL
 ─ Inverted Index
+M
