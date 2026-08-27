@@ -28,9 +28,11 @@ The included documents:
 • Multiple searches in one session
 ## Run
 Compile the program:
+
 g++ -std=c++17 main.cpp -o search
 
 Start the search engine:
+
 ./search
 ## Technologies
 • C++
