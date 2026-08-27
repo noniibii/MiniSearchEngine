@@ -1,7 +1,5 @@
 # Mini Search Engine
 Search and rank information from computer science documents using C++.
-## About
-The program reads text files, processes their content, and creates an index that helps locate search terms efficiently. It also compares the matching documents and displays the results in order.
 ## Search Topics
 The included documents:
 
