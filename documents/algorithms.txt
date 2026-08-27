@@ -1,0 +1,2 @@
+Algorithms are important in computer science.
+Efficient algorithms can improve software performance.

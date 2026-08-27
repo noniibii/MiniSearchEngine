@@ -1,0 +1,3 @@
+Databases store and organize large amounts of data.
+SQL is commonly used to manage relational databases.
+Databases systems are important for many software applications.

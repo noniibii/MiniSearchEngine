@@ -1,0 +1,3 @@
+Operating systems manage computer hardware and software.
+They handle memory, processes, files, and system resources.
+Operating systems provide an interface between users and hardware.
